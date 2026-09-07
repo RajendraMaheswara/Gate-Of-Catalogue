@@ -1,6 +1,6 @@
-# Babylon
+# Gate of Catalogue (gofca)
 
-Babylon is a circle/booth directory website for convention events like Comifuro or Comipara. It features a catalog of items and a personal wishlist/PO tracker for visitors.
+Gate of Catalogue (gofca) is a circle/booth directory website for convention events like Comifuro or Comipara. It features a catalog of items and a personal wishlist/PO tracker for visitors.
 
 ## Features
 

@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col items-center justify-center p-8">
       <main className="flex flex-col gap-6 items-center max-w-2xl text-center">
         <h1 className="text-4xl font-bold tracking-tight">
-          Welcome to Babylon
+          Welcome to Gate of Catalogue (gofca)
         </h1>
         <p className="text-lg text-neutral-600 dark:text-neutral-400">
           A circle and booth directory website for convention events, featuring a catalog of items and a personal pre-order tracker.
